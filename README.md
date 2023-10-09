@@ -1,10 +1,6 @@
 # Heart Attack Prediction Mini Project 
 This mini project focuses on Heart Attack Prediction using two machine learning models: Decision Tree and Logistic Regression. The analysis utilizes a heart attack dataset containing various features and attributes related to individuals who have experienced heart attacks.
 
-## Authors
-- Yazan Hijazi
-- Saleh Khalaf
-
 ## Project Description
 The goal of this project is to predict the occurrence of heart attacks using machine learning models. The heart attack dataset includes features such as age, gender, cholesterol levels, blood pressure, and other medical indicators, which serve as the foundation for training and evaluating the predictive models.
 

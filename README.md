@@ -40,6 +40,3 @@ The goal of this project is to predict the occurrence of heart attacks using mac
 ## Scatter Plot
 - A scatter plot was used to visualize the positive correlation between the "oldpeak" variable and the predicted output column in the heart attack dataset. Higher values of "oldpeak" were associated with an increased likelihood of a heart attack, indicating its importance as a risk factor in predicting heart attacks.
 
----
-
-Feel free to modify and expand this Read Me file to suit the specific requirements of your mini project!

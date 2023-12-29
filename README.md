@@ -1,4 +1,4 @@
-![First LOOK!](images/Workflow.png)
+![First LOOK!](Workflow.png)
 
 
 # Heart Attack Prediction Mini Project 

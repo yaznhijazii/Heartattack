@@ -1,4 +1,4 @@
-![First LOOK!](Workflow.png)
+![First LOOK!](Screenshot 2024-01-06 232325.png)
 
 
 # Heart Attack Prediction Mini Project 
